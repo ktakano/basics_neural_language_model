@@ -5,14 +5,14 @@ This short lecture instructs the basics of neural language model along with simp
 
 **Content**
 Day 1:
-*Basic of neural network
-*Word embedding
-*Sequential neural model for Natural Language Processing
+* Basic of neural network
+* Word embedding
+* Sequential neural model for Natural Language Processing
 Day 2:
-*Sequential neural model for Natural Language Processing (Cont.)
-*Transformer
-*Conversation application by GPT
+* Sequential neural model for Natural Language Processing (Cont.)
+* Transformer
+* Conversation application by GPT
 
 **Requirement**
-*PC and Internet connection
-*Google Colaboratory ... Google account is required
+* PC and Internet connection
+* Google Colaboratory ... Google account is required
